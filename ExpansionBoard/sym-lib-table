@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "reTerminal-X")(type "KiCad")(uri "${KIPRJMOD}/library/reTerminal-X.kicad_sym")(options "")(descr ""))
+)
